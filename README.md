@@ -1,6 +1,6 @@
 # Association of a novel index of glycemic control with complications in South Asians with type 2 diabetes: an analysis of continuous glucose monitoring data 
 
-##Author Names: 
+## Author Names: 
 Jithin Sam Varghese (1), Ranjit Mohan Anjana (2), Ranjit Unnikrishnan (2), Boris Kovatchev (3), David Rodbard (4), David C Klonoff (5), Viswanathan Mohan (2)   
 
 ## Author Affiliations: 
